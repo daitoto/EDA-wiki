@@ -1,8 +1,8 @@
 # Project Information
 site_name: EDA Wiki
-site_description: EDA Wiki 是一个EDA开源工具站点
+site_description: EDA Wiki是关于EDA算法和开源工具的科普站点
 site_author: EDA Wiki Team
-site_url: http://47.93.232.123/wiki/
+site_url: http://openbelt.org.cn/wiki/
 strict: true
 
 # Repository
@@ -21,15 +21,14 @@ nav:
   - 简介:
     - Getting started: index.md
     - 关于本项目: intro/about.md
-    - EDA课程与开源教程: intro/course.md
-    - EDA workshop: intro/workshop.md
+    - EDA课程与教程: intro/course.md
+    - 开源EDA研讨会: intro/workshop.md
     - 致谢: intro/thanks.md
   - 设计综合:
     - 设计综合简介: synthesis/index.md
-    - 高层次综合: synthesis/high.md
-    - DSL and IR: synthesis/dsl.md
-    - Logic Synthesis: synthesis/logic.md
-
+    - 高层综合: synthesis/behavior.md
+    - DSL与IR: synthesis/dsl.md
+    - 逻辑综合: synthesis/logic.md
 
   - 测试与验证:
     - 测试与验证简介: verification/index.md
@@ -37,8 +36,8 @@ nav:
   - 分析与建模:
     - 分析与建模简介: analysis/index.md
 
-  - 硅智权:
-    - 硅智权: sip/index.md
+  - 硅知产:
+    - 硅知产简介: sip/index.md
 
 
 # Theme

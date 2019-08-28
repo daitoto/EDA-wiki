@@ -3,11 +3,11 @@
 
 # to-do list
 ## 内容
-- [x] 简介(intro/)
-- [ ] 设计综合(synthesis/)
-- [ ] 测试与验证(verification/)
-- [ ] 分析与建模(analysis/)
-- [ ] 硅智权(sip/)
+- [x] 简介 [docs/intro/](docs/intro/)
+- [ ] 设计综合 [docs/synthesis/](docs/synthesis/)
+- [ ] 测试与验证 [docs/verification/](docs/verification/)
+- [ ] 分析与建模 [docs/analysis/](docs/analysis/)
+- [ ] 硅知产 [docs/sip/](docs/sip/)
 
 ## 其他
 
