@@ -4,7 +4,7 @@ title: EDA Wiki
 
 # 欢迎来到 **EDA Wiki** ！ [![GitHub watchers](https://img.shields.io/github/watchers/daitoto/EDA-wiki.svg?style=social&label=Watch)](https://github.com/daitoto/EDA-wiki)  [![GitHub stars](https://img.shields.io/github/stars/daitoto/EDA-wiki.svg?style=social&label=Stars)](https://github.com/daitoto/EDA-wiki) 
 
-**EDA wiki** 是一个整合EDA开发工具的开源站点。
+**EDA wiki** 是关于EDA算法和开源工具的协作文档。
 
 本项目受 [OI Wiki](https://OI-wiki.github.io/OI-wiki/) 的启发，在编写过程中参考了诸多资料，在此一并致谢。
 

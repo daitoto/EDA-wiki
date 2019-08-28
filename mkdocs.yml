@@ -1,6 +1,6 @@
 # Project Information
 site_name: EDA Wiki
-site_description: EDA Wiki是关于EDA算法和开源工具的科普站点
+site_description: EDA Wiki是关于EDA算法和开源工具的协作文档
 site_author: EDA Wiki Team
 site_url: http://openbelt.org.cn/wiki/
 strict: true
@@ -108,3 +108,4 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - mdx_truly_sane_lists
