@@ -8,3 +8,5 @@ mkdocs-material/
 node_modules/
 html/
 wiki/
+webhook.php
+post-push.sh
