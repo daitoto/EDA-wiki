@@ -1,0 +1,111 @@
+# Project Information
+site_name: EDA Wiki
+site_description: EDA Wiki 是一个EDA开源工具站点
+site_author: EDA Wiki Team
+site_url: http://47.93.232.123/wiki/
+strict: true
+
+# Repository
+repo_name: 'daitoto/EDA-wiki'
+repo_url: 'https://github.com/daitoto/EDA-wiki'
+edit_uri: 'blob/master/docs/'
+
+# Copyright
+copyright: 'Copyright &copy; 2019 - 2019 EDA Wiki Team'
+google_analytics:
+  - ''
+  - 'auto'
+
+# Contents
+nav:
+  - 简介:
+    - Getting started: index.md
+    - 关于本项目: intro/about.md
+    - EDA课程与开源教程: intro/course.md
+    - EDA workshop: intro/workshop.md
+    - 致谢: intro/thanks.md
+  - 设计综合:
+    - 设计综合简介: synthesis/index.md
+    - 高层次综合: synthesis/high.md
+    - DSL and IR: synthesis/dsl.md
+    - Logic Synthesis: synthesis/logic.md
+
+
+  - 测试与验证:
+    - 测试与验证简介: verification/index.md
+
+  - 分析与建模:
+    - 分析与建模简介: analysis/index.md
+
+  - 硅智权:
+    - 硅智权: sip/index.md
+
+
+# Theme
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  include_search_page: false
+  search_index_only: true
+  #favicon: 'favicon.ico'
+
+  logo:
+    icon: 'school'
+  feature:
+    tabs: true
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+
+# Customization
+extra:
+  search:
+    language: 'jp'
+  # disqus: 'EDA-Wiki'
+  copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
+  pagetime: 'on'
+  manifest: 'manifest.webmanifest'
+  githash: ''
+
+extra_javascript:
+  - '_static/js/extra.js?v=15'
+  - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
+
+
+extra_css:
+  - '_static/css/extra.css?v=12'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: math
+          class: arithmatex
+          format: !!python/name:pymdownx.arithmatex.fence_mathjax_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
