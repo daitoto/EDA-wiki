@@ -2,10 +2,10 @@
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
-ORG=24OI
-REPO=OI-wiki
+ORG=openbelt
+REPO=EDA-wiki
 # This probably should match an email for one of your users.
-EMAIL=sirius.caffrey@gmail.com
+EMAIL=daitoto@gmail.com
 
 set -e
 

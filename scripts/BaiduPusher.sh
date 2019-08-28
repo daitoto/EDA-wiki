@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 source /etc/profile
-ORG=24OI
-REPO=OI-wiki
+ORG=daitoto
+REPO=EDA-wiki
 # Baidu Pusher 
 
 # Sitemap Parser
