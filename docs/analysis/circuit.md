@@ -1,0 +1,13 @@
+### Circuit Analysis
+ - [ngspice](http://ngspice.sourceforge.net/)
+   - Open source spice simulator.
+ - [SPICE](http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/) (Berkeley)
+   - A general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses.
+ - [mixedsim](https://github.com/Isotel/mixedsim) (Isotel)
+   - Mixed signal simulation with Verilog.
+ - [Gnucap: GNU Circuit Analysis Package](http://gnucap.org/dokuwiki/doku.php?id=gnucap:start)
+   - A modern "post-spice" analog and mixed signal circuit simulator.
+ - [Qucs: Quite Universal Circuit Simulator](https://github.com/Qucs/qucs/)
+   - Setup a circuit with a graphical user interface (GUI) and simulate the large-signal, small-signal and noise behaviour of the circuit.
+ - [Xyce](https://xyce.sandia.gov/) (Sandia NL)
+   - An open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
