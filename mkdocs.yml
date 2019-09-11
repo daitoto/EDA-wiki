@@ -2,7 +2,7 @@
 site_name: EDA Wiki
 site_description: EDA Wiki是关于EDA算法和开源工具的协作文档
 site_author: EDA Wiki Team
-site_url: http://openbelt.org.cn/wiki/
+site_url: https://openbelt.org.cn/wiki/
 strict: true
 
 # Repository
