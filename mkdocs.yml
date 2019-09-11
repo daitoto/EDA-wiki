@@ -11,7 +11,7 @@ repo_url: 'https://github.com/daitoto/EDA-wiki'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
-copyright: 'Copyright &copy; 2019 - 2019 EDA Wiki Team'
+copyright: 'ICP备案号：京ICP备19041147号 <br> Copyright &copy; 2019 - 2019 EDA Wiki Team'
 google_analytics:
   - ''
   - 'auto'
