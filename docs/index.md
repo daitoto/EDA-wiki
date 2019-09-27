@@ -2,13 +2,14 @@
 pagetime:
 title: EDA Wiki
 
-# 欢迎来到 **EDA Wiki** ！ [![GitHub watchers](https://img.shields.io/github/watchers/daitoto/EDA-wiki.svg?style=social&label=Watch)](https://github.com/daitoto/EDA-wiki)  [![GitHub stars](https://img.shields.io/github/stars/daitoto/EDA-wiki.svg?style=social&label=Stars)](https://github.com/daitoto/EDA-wiki) 
+# 欢迎来到 **EDA Wiki** ！ [![GitHub watchers](https://img.shields.io/github/watchers/pkuzjx/EDA-wiki.svg?style=social&label=Watch)](https://github.com/pkuzjx/EDA-wiki)  [![GitHub stars](https://img.shields.io/github/stars/pkuzjx/EDA-wiki.svg?style=social&label=Stars)](https://github.com/pkuzjx/EDA-wiki) 
 
 **EDA wiki** 是关于EDA算法和开源工具的协作文档。
 
 本项目受 [OI Wiki](https://OI-wiki.github.io/OI-wiki/) 的启发，在编写过程中参考了诸多资料，在此一并致谢。
 
-本项目文档内容托管于 [GitHub](https://github.com/daitoto/EDA-wiki) 和 阿里云[CODE](https://code.aliyun.com/openbelt/eda-wiki)，主要使用 [GitHub Issues](https://github.com/daitoto/EDA-wiki/issues) / [CODE Issues](https://code.aliyun.com/openbelt/eda-wiki/issues) / [QQ](https://jq.qq.com/?_wv=1027&k=5MJhIUr) 进行交流沟通，期待你的加入。
+本项目文档内容托管于 [GitHub](https://github.com/pkuzjx/EDA-wiki) 和 阿里云[CODE](https://code.aliyun.com/openbelt/eda-wiki)，主要使用 [GitHub Issues](https://github.com/pkuzjx/EDA-wiki/issues) / [CODE Issues](https://code.aliyun.com/openbelt/eda-wiki/issues) / [QQ](https://jq.qq.com/?_wv=1027&k=5MJhIUr) 进行交流沟通，期待你的加入。
+Email: zhangjiaxi@pku.edu.cn, daitoto3@gmail.com, gluo@pku.edu.cn。
 
 ## Material color palette 颜色主题
 

@@ -6,8 +6,8 @@ site_url: https://openbelt.org.cn/wiki/
 strict: true
 
 # Repository
-repo_name: 'daitoto/EDA-wiki'
-repo_url: 'https://github.com/daitoto/EDA-wiki'
+repo_name: 'pkuzjx/EDA-wiki'
+repo_url: 'https://github.com/pkuzjx/EDA-wiki'
 edit_uri: 'blob/master/docs/'
 
 # Copyright

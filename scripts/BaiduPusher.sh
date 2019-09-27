@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 source /etc/profile
-ORG=daitoto
+ORG=pkuzjx
 REPO=EDA-wiki
 # Baidu Pusher 
 
