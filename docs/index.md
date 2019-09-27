@@ -9,7 +9,7 @@ title: EDA Wiki
 本项目受 [OI Wiki](https://OI-wiki.github.io/OI-wiki/) 的启发，在编写过程中参考了诸多资料，在此一并致谢。
 
 本项目文档内容托管于 [GitHub](https://github.com/pkuzjx/EDA-wiki) 和 阿里云[CODE](https://code.aliyun.com/openbelt/eda-wiki)，主要使用 [GitHub Issues](https://github.com/pkuzjx/EDA-wiki/issues) / [CODE Issues](https://code.aliyun.com/openbelt/eda-wiki/issues) / [QQ](https://jq.qq.com/?_wv=1027&k=5MJhIUr) 进行交流沟通，期待你的加入。
-Emails: zhangjiaxi@pku.edu.cn, daitoto@pku.edu.cn, gluo@pku.edu.cn。
+Email: zhangjiaxi@pku.edu.cn, daitoto@pku.edu.cn, gluo@pku.edu.cn。
 
 ## Material color palette 颜色主题
 
