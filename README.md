@@ -21,7 +21,7 @@
 本项目目前采用 [MkDocs](https://github.com/mkdocs/mkdocs) 部署。
 
 ```bash
-git clone https://github.com/daitoto/EDA-wiki.git --depth=1
+git clone https://github.com/pkuzjx/EDA-wiki.git --depth=1
 cd EDA-wiki
 # 安装 mkdocs
 pip3 install -U -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
@@ -59,7 +59,7 @@ mkdocs --help
   year = {2019},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/daitoto/EDA-wiki}},
+  howpublished = {\url{https://github.com/pkuzjx/EDA-wiki}},
 }
 ```
 

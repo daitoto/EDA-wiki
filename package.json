@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daitoto/EDA-wiki.git"
+    "url": "git+https://github.com/pkuzjx/EDA-wiki.git"
   },
   "keywords": [
     "OI",
@@ -21,9 +21,9 @@
   "author": "OI Wiki Team",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/daitoto/EDA-wiki/issues"
+    "url": "https://github.com/pkuzjx/EDA-wiki/issues"
   },
-  "homepage": "https://github.com/daitoto/EDA-wiki#readme",
+  "homepage": "https://github.com/pkuzjx/EDA-wiki#readme",
   "dependencies": {
     "cssnano": "^4.1.10",
     "gulp": "^4.0.0",

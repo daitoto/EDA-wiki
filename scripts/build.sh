@@ -2,10 +2,10 @@
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
-ORG=daitoto
+ORG=pkuzjx
 REPO=EDA-wiki
 # This probably should match an email for one of your users.
-EMAIL=daitoto3@gmail.com
+EMAIL=zsjyxyl@gmail.com
 
 set -e
 

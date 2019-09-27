@@ -5,7 +5,7 @@
 ORG=openbelt
 REPO=EDA-wiki
 # This probably should match an email for one of your users.
-EMAIL=daitoto@gmail.com
+EMAIL=zsjyxyl@gmail.com
 
 set -e
 
