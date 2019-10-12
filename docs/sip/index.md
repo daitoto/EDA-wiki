@@ -1,11 +1,4 @@
-- [ ] PDK与单元库
-- [ ] 存储单元
-- [ ] 通用计算
-- [ ] 专用计算
-- [ ] 可重构计算
-- [ ] 片上互连
-- [ ] 输入输出
-- [ ] 传感器
+本版块收集和讨论开源硅知识产权（Silicon Intellectual Property）相关的项目和信息。
 
 ### Communities
  - [LibreCores](https://www.librecores.org/)

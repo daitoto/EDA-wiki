@@ -43,6 +43,7 @@ nav:
     - 测试与验证简介: verification/index.md
     - 测试: verification/testing.md
     - 形式化验证: verification/formal.md
+    - DRC: verification/drc.md
     - LVS: verification/lvs.md
 
   - 分析与建模:

@@ -1,0 +1,32 @@
+### Cores
+ - [RISC-V Cores](https://riscv.org/risc-v-cores/)
+   - Various cores and SoCs that endeavor to implement the RISC-V specification
+ - [8051](https://www.oreganosystems.at/products/ip-cores/8051-ip-core) (Oregano Systems, Vienna University of Technology)
+   - A parameterizable, synthesizable circuit description (VHDL) under LGPL license
+ - [Arm DesignStart](https://developer.arm.com/ip-products/designstart) (ARM)
+   - $0 license fee and success-based royalty model
+   - Fast access to a select mix of Arm IP, including Cortex-M0, Cortex-M3 and Cortex-A5 processors and supporting IP, software and resources for custom silicon designs
+ - [Octavo](http://fpgacpu.ca/octavo/)
+   - A soft-processor aimed at building FPGA overlay architectures
+ - [VESPA](http://www.eecg.toronto.edu/VESPA/) (University of Toronto)
+   - A parameterized soft vector processor fully implemented on a DE3 FPGA board
+
+### Manycore
+ - [Harmonica 2](https://github.com/cdkersey/harmonica2) (Chad D. Kersey)
+   - A configurable multithreaded SIMT processor core desgin
+ - [MIAOW](https://github.com/VerticalResearchGroup/miaow) (Madison)
+   - An open source GPU based off of the AMD Southern Islands ISA
+ - [Nyuzi](https://github.com/jbush001/NyuziProcessor) (Jeff Bush)
+   - An experimental GPGPU processor hardware design focused on compute intensive tasks
+ - [OpenCelerity](http://opencelerity.org/) (UW, Cornell, UMich, UCSD)
+   - Open-Source RISC-V Tiered Accelerator Fabric SoC
+ - [OpenPiton](https://github.com/PrincetonUniversity/openpiton) (Princeton)
+   - The world's first open source, general purpose, multithreaded manycore processor
+ - [OpenScale](http://www.lirmm.fr/ADAC/?page_id=102) (LIRMM)
+   - A scalable and open-source NoC-based MPSoC platform
+ - [OpTiMSoC](https://github.com/optimsoc/optimsoc) (TUM)
+   - Open Tiled Manycore System-on-Chip
+ - [Patmos](https://github.com/t-crest/patmos) (Technical University of Denmark)
+   - A time-predictable VLIW processor, and the processor for the T-CREST project 
+ - [Simty](https://gforge.inria.fr/scm/?group_id=8062) (Inria)
+   - A synthesizable general-purpose SIMT processor
