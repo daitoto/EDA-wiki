@@ -30,7 +30,8 @@ nav:
     - ASIC流程: flow/asic.md
     - FPGA流程: flow/fpga.md
     - 标准格式: flow/standard.md
-    - DSL与IR: flow/dsl.md
+    - DSL: flow/dsl.md
+    - IR: flow/ir.md
 
   - 设计综合:
     - 设计综合简介: synthesis/index.md
