@@ -13,7 +13,7 @@
    - Jack Davidson's undergrad project at UCSD
 
 ### Coarse-grain Reconfigurable Fabrics
- - [CGRA-ME](http://cgra-me.ece.utoronto.ca/) (University of Toronto)
+ - [CGRA-ME](http://cgra-me.ece.utoronto.ca/) (Toronto)
    - An architectural modelling and exploration (ME) framework
  - [CCF](https://github.com/cmlasu/ccf)(CML - Arizona State University)
    - CCF (CGRA Compilation Framework) is an end-to-end prototype demonstrating the code generation and simulation process for CGRA accelerators. 

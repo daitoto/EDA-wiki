@@ -1,3 +1,10 @@
+### Peripheral Component Interconnect Express (PCIe)
+ - [RIFFA](https://github.com/KastnerRG/riffa) (UCSD)
+   - Reusable Integration Framework for FPGA Accelerators (RIFFA) is a simple framework for communicating data from a host CPU to a FPGA via a PCI Express bus.
+ - [Xillybus](http://xillybus.com/)
+   - An FPGA IP core for easy DMA over PCIe with Windows and Linux
+   - Educational license: no fee; Production license: 25,000~75,000 USD
+
 ### Serial Advanced Technology Attachment (SATA)
  - [SATA core](http://www.ecs.umass.edu/ece/tessier/rcg/virtex4-sata/sata_core.html) (UMass Amherst)
    - All layers of the SATA protocol are implemented in this SATA core.

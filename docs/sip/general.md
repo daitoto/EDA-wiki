@@ -8,7 +8,7 @@
    - Fast access to a select mix of Arm IP, including Cortex-M0, Cortex-M3 and Cortex-A5 processors and supporting IP, software and resources for custom silicon designs
  - [Octavo](http://fpgacpu.ca/octavo/)
    - A soft-processor aimed at building FPGA overlay architectures
- - [VESPA](http://www.eecg.toronto.edu/VESPA/) (University of Toronto)
+ - [VESPA](http://www.eecg.toronto.edu/VESPA/) (Toronto)
    - A parameterized soft vector processor fully implemented on a DE3 FPGA board
 
 ### Manycore
