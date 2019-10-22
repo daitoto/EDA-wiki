@@ -1,4 +1,4 @@
-本版块收集和讨论开源硅知识产权（Silicon Intellectual Property）相关的项目和信息。
+本栏目收集和讨论开源硅知识产权（Silicon Intellectual Property）相关的项目和信息。
 
 ### Communities
  - [LibreCores](https://www.librecores.org/)
