@@ -49,6 +49,7 @@ nav:
 
   - 分析与建模:
     - 分析与建模简介: analysis/index.md
+    - 架构仿真: analysis/arch.md
     - 逻辑仿真: analysis/logic.md
     - 时序分析: analysis/timing.md
     - 电路分析: analysis/circuit.md
