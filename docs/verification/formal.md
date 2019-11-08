@@ -1,3 +1,9 @@
 ### Formal Verfication
- - [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) (Clifford Wolf)
-   - Front-end for Yosys-based formal verification flows.
+- [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) (Clifford Wolf)
+  - Front-end for Yosys-based formal verification flows.
+
+### SAT/SMT Solvers
+- [SAT Competitions](http://satcompetition.org/)
+  - To identify new challenging benchmarks and to promote new solvers for the propositional satisfiability problem (SAT) as well as to compare them with state-of-the-art solvers. 
+- [SMT Competitions](https://smt-comp.github.io/)
+  - To spur advances in SMT solver implementations on benchmark formulas of practical interest.
