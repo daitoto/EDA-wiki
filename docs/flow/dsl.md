@@ -5,3 +5,11 @@
    - A hardware construction language that supports advanced hardware design using highly parameterized generators and layered domain-specific hardware languages.
  - [BAG: Berkeley Analog Generator](https://github.com/ucb-art/BAG_framework) (Berkeley)
    - A Python-based circuit design platform that aims to automate analog circuit design, but at the same time give the user full visibility and control over every step in the design flow.
+ - [ActiveCore](https://github.com/AntonovAlexander/activecore) (ITMO)
+   - A framework that demonstrates original hardware designing concept based on "Micro-Language IP" (MLIP) cores.
+ - [CBG-BSV Toy Bluespec Compiler](https://www.cl.cam.ac.uk/~djg11//wwwhpr/toy-bluespec-compiler.html) (Cambridge)
+   - "For compiler writers like myself, the best way to learn a new language was to write a toy compiler for it."
+ - [Hardcaml](https://github.com/janestreet/hardcaml) (Jane Street)
+   - An OCaml library for designing hardware.
+ - [Kiwi](https://www.cl.cam.ac.uk/~djg11/kiwi/) (Cambridge)
+   - Aims to make reconfigurable computing technology like Field Programmable Gate Arrays (FPGAs) more accessible to mainstream programmers.
