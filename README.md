@@ -5,7 +5,8 @@
 ## 内容
 - [x] 简介 [docs/intro/](docs/intro/)
 - [ ] 设计综合 [docs/synthesis/](docs/synthesis/)
-- [ ] 测试与验证 [docs/verification/](docs/verification/)
+- [ ] 测试 [docs/testing/](docs/testing/)
+- [ ] 验证 [docs/verification/](docs/verification/)
 - [ ] 分析与建模 [docs/analysis/](docs/analysis/)
 - [ ] 硅知产 [docs/sip/](docs/sip/)
 
