@@ -40,9 +40,12 @@ nav:
     - 布局布线: synthesis/pnr.md
     - 版图综合: synthesis/layout.md
 
+  - 测试:
+    - 测试简介: testing/index.md
+    - 测试: testing/testing.md
+
   - 测试与验证:
-    - 测试与验证简介: verification/index.md
-    - 测试: verification/testing.md
+    - 验证简介: verification/index.md
     - 形式化验证: verification/formal.md
     - DRC: verification/drc.md
     - LVS: verification/lvs.md
