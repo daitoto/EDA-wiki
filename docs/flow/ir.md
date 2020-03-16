@@ -3,3 +3,11 @@
    - An intermediate representation (IR) for digital circuits designed as a platform for writing circuit-level transformations.
  - [LiveHD](https://github.com/masc-ucsc/livehd) (UCSC)
    - An infrastructure designed for Live Hardware Development.
+ - [Yosys.RTLIL](https://github.com/YosysHQ/yosys)
+   - Verilog AST like IR in Yosys.
+ - [mockturtle](https://github.com/lsils/mockturtle)
+   - A logic network library providing several logic network implementations.
+ - [percy](https://github.com/whaaswijk/percy)
+   - A header-only exact synthesis library offering a collection of different synthesizers and exact synthesis methods.
+ - [cirkit](https://github.com/msoeken/cirkit)
+   - A logic synthesis and optimization framework implemented based on various EPFL logic sythesis libraries.
