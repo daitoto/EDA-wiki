@@ -13,3 +13,22 @@
    - An OCaml library for designing hardware.
  - [Kiwi](https://www.cl.cam.ac.uk/~djg11/kiwi/) (Cambridge)
    - Aims to make reconfigurable computing technology like Field Programmable Gate Arrays (FPGAs) more accessible to mainstream programmers.
+
+### IR
+ - [FIRRTL](https://github.com/freechipsproject/firrtl) (Berkeley)
+   - An intermediate representation (IR) for digital circuits designed as a platform for writing circuit-level transformations.
+ - [LiveHD](https://github.com/masc-ucsc/livehd) (UCSC)
+   - An infrastructure designed for Live Hardware Development.
+ - [RTLIL](https://github.com/YosysHQ/yosys)
+   - Verilog AST like IR in Yosys.
+ - [LLHD](http://www.llhd.io/)
+   - An intermediate representation for digital circuit descriptions.
+   - Together with an accompanying simulator and SystemVerilog/VHDL compiler.
+ - [LLHDL](https://github.com/errordeveloper/llhdl) (archived)
+   - A logic synthesis and manipulation infrastructure for FPGAs.
+ - [HWToolkit](https://github.com/Nic30/hwt)
+   - A VHDL/Verilog/SystemC code generator and simulator.
+ - [nMigen](https://github.com/m-labs/nmigen)
+   - A refreshed Python toolbox for building complex digital hardware.
+ - [spydrnet](https://byuccl.github.io/spydrnet/)
+   - A flexible framework for analyzing and transforming FPGA netlists.

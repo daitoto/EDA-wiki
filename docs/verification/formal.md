@@ -1,6 +1,8 @@
 ### Formal Verfication
 - [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) (Clifford Wolf)
   - Front-end for Yosys-based formal verification flows.
+- [CoSA](https://github.com/cristian-mattarei/CoSA)
+  - An SMT-based symbolic model checker for hardware design.
 
 ### SAT/SMT Solvers
 - [SAT Competitions](http://satcompetition.org/)

@@ -30,8 +30,7 @@ nav:
     - ASIC流程: flow/asic.md
     - FPGA流程: flow/fpga.md
     - 标准格式: flow/standard.md
-    - DSL: flow/dsl.md
-    - IR: flow/ir.md
+    - DSL & IR: flow/dsl.md
 
   - 设计综合:
     - 设计综合简介: synthesis/index.md
@@ -49,7 +48,6 @@ nav:
     - 形式化验证: verification/formal.md
     - DRC: verification/drc.md
     - LVS: verification/lvs.md
-    - IR: verification/ir.md
 
   - 分析与建模:
     - 分析与建模简介: analysis/index.md
@@ -69,7 +67,6 @@ nav:
     - 片上互连: sip/interconn.md
     - 输入输出: sip/inout.md
     - 传感器: sip/sensor.md
-    - IR: sip/ir.md
 
 # Theme
 theme:

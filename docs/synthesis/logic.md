@@ -3,9 +3,11 @@
    - A sequential logic synthesis and formal verification tool.
  - [ALSO](https://github.com/nbulsi/also) (Ningbo Univ.)
    - Based on the [EPFL Logic Synthesis Libraries](https://github.com/lsils/lstools-showcase); aim to exploit advanced logic synthesis tools for both modern FPGA and emerging nanotechnologies.
- - [LLDHL](https://github.com/errordeveloper/llhdl)
-   - A logic synthesis and manipulation infrastructure for FPGAs.
  - [Yosys](https://github.com/YosysHQ/yosys) (Clifford Wolf)
    - A framework for Verilog RTL synthesis, used by qflow and OpenROAD.
  - [CirKit](https://github.com/msoeken/cirkit) (EPFL)
    - CirKit is a logic synthesis and optimization framework. It is implemented based on various [EPFL Logic Synthesis Libraries](https://github.com/lsils/lstools-showcase). [RevKit 3.1](https://github.com/msoeken/revkit) (for reversible logic synthesis) is a Python library without a stand-alone interface as in CirKit. 
+ - [mockturtle](https://github.com/lsils/mockturtle)
+   - A logic network library providing several logic network implementations.
+ - [percy](https://github.com/whaaswijk/percy)
+   - A header-only exact synthesis library offering a collection of different synthesizers and exact synthesis methods.
