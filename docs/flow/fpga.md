@@ -19,3 +19,6 @@
    - An open-source toolchain to design and evaluate island style spatial automata processing architectures.
  - [DATuner](https://github.com/cornell-zhang/datuner) (Cornell, PKU)
    - A parallel bandit-based approach for autotuning FPGA compilation.
+ - [SymbiFlow](https://symbiflow.github.io/)
+   - A Verilog-to-Bitstream (end-to-end) FPGA synthesis flow.
+   - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
