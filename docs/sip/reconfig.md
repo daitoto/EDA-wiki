@@ -11,6 +11,8 @@
  - [Tritoncore](https://github.com/JackDavidson/OpenFPGACore-TritonCore) (Jack Davidson)
    - A very simple and minimal FPGA that is implemented in CHISEL
    - Jack Davidson's undergrad project at UCSD
+ - [PRGA](https://prga.readthedocs.io/en/latest/) (Princeton University)
+   - A customizable, scalable, versatile, extensible open-source framework for building and using custom FPGAs
 
 ### Coarse-grain Reconfigurable Fabrics
  - [CGRA-ME](http://cgra-me.ece.utoronto.ca/) (Toronto)
