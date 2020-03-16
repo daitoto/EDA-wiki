@@ -22,3 +22,5 @@
  - [SymbiFlow](https://symbiflow.github.io/)
    - A Verilog-to-Bitstream (end-to-end) FPGA synthesis flow.
    - Target Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs.
+ - [Torc](http://torc-isi.sourceforge.net/documentation.php)
+   - An open-source C++ infrastructure and tool set for reconfigurable computing.
