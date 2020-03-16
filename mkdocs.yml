@@ -69,6 +69,7 @@ nav:
     - 片上互连: sip/interconn.md
     - 输入输出: sip/inout.md
     - 传感器: sip/sensor.md
+    - IR: sip/ir.md
 
 # Theme
 theme:
