@@ -23,4 +23,8 @@
    - SMRA v2.0 (or Software Managed Reconfigurable Accelerator) is initiative of the compiler-microarchitecture lab to boost and promote development of reconfigurable accelerators, containing REGIMap, Instruction Generator/Compiler Backend and Architectural Simulator (gem5). 
  - [garnet](https://github.com/StanfordAHA/garnet) (Stanford)
    - Garnet is a framework to investigate and experiment with implementing CGRA using new generator infrastructure.
+   
+### IR
+ - [spydrnet](https://byuccl.github.io/spydrnet/)
+   - A flexible framework for analyzing and transforming FPGA netlists.
   
