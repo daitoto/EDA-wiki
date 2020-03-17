@@ -19,16 +19,16 @@
    - An intermediate representation (IR) for digital circuits designed as a platform for writing circuit-level transformations.
  - [LiveHD](https://github.com/masc-ucsc/livehd) (UCSC)
    - An infrastructure designed for Live Hardware Development.
- - [RTLIL](https://github.com/YosysHQ/yosys)
-   - Verilog AST like IR in Yosys.
  - [LLHD](http://www.llhd.io/)
    - An intermediate representation for digital circuit descriptions.
    - Together with an accompanying simulator and SystemVerilog/VHDL compiler.
  - [LLHDL](https://github.com/errordeveloper/llhdl) (archived)
    - A logic synthesis and manipulation infrastructure for FPGAs.
- - [HWToolkit](https://github.com/Nic30/hwt)
-   - A VHDL/Verilog/SystemC code generator and simulator.
+ - [netlistDB](https://github.com/HardwareIR/netlistDB)
+   - Intermediate format for digital hardware representation with graph database API.
  - [nMigen](https://github.com/m-labs/nmigen)
    - A refreshed Python toolbox for building complex digital hardware.
+ - [RTLIL](https://github.com/YosysHQ/yosys/blob/master/kernel/rtlil.h)
+   - Verilog AST like IR in Yosys.
  - [spydrnet](https://byuccl.github.io/spydrnet/)
    - A flexible framework for analyzing and transforming FPGA netlists.
