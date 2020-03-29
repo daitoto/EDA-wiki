@@ -11,3 +11,5 @@
    - A logic network library providing several logic network implementations.
  - [percy](https://github.com/whaaswijk/percy)
    - A header-only exact synthesis library offering a collection of different synthesizers and exact synthesis methods.
+ - [UNIVR Logic Synthesis Software](https://jackhack96.github.io/logic-synthesis/index.html)
+   - The purpose of this site is to host source code, binaries and documentation of software for combinational and sequential logic synthesis. Currently, the following libraries are made available: Espresso, SIS, MVSIS and BALM. 
