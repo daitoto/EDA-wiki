@@ -12,7 +12,7 @@
  - qflow [Graywolf](https://github.com/rubund/graywolf)
    - A placement tool in VLSI design and used together with qflow.
 
-### Placement (可执行文件)
+### Placement (Freeware)
  - [ePlace](http://vlsi-cuda.ucsd.edu/~ljw/ePlace/index.html) (UCSD)
    - An electrostatics based placer using Nesterov's method.
  - [NTUplace](http://eda.ee.ntu.edu.tw/w04/download/ntuplace.php) (NTU)
