@@ -5,6 +5,8 @@
    - A programmable accelerator that exposes a RISC-like programming abstraction to describe compute and memory operations at the tensor level
  - [DANA](https://github.com/bu-icsg/dana) (BU)
    - Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel
+ - [C-LSTM](https://github.com/shvo/C-LSTM) (PKU, Syracuse)
+   - Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.
  - [E-LSTM](https://github.com/rbshi/elstm) (HKU, PKU)
    - An efficient implementation of LSTM inference on the RISC-V based embedded system
  - [AccDNN](https://github.com/IBM/AccDNN) (IBM, UIUC)
@@ -17,4 +19,5 @@
    - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
  - [zynqnet](https://github.com/dgschwend/zynqnet) (ETH)
    - An FPGA-Accelerated Embedded Convolutional Neural Network
-
+ - [HLS4ML](https://github.com/hls-fpga-machine-learning/HLS4ML)
+   - A package for machine learning inference in FPGAs.
