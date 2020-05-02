@@ -13,3 +13,8 @@
   - A detailed simulation model of a contemporary GPU (such as NVIDIA's Fermi and GT200 architectures) running CUDA and/or OpenCL workloads.
   - Includes an integrated (and validated) energy model, [GPUWattch](http://www.gpgpu-sim.org/gpuwattch/).
 
+### DRAM Simulators
+- [Ramulator](https://github.com/CMU-SAFARI/ramulator) (CMU)
+  - A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals.
+- [DrSim](http://lph.ece.utexas.edu/public/Main/DrSim) (UT Austin)
+  - A cycle-based DRAM system simulator.
