@@ -1,3 +1,9 @@
+### Partitioning
+- [KaHyPar](https://github.com/kahypar/kahypar) (Karlsruhe Institute of Technology)
+  - A multilevel hypergraph partitioning framework providing direct k-way and recursive bisection based partitioning algorithms.
+- [METIS](http://glaros.dtc.umn.edu/gkhome/views/metis) (Univ. of Minnesota)
+  - A set of programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices.
+
 ### Placement
  - [DREAMPlace](https://github.com/limbo018/DREAMPlace) (UT Austin)
    - A GPU-accelerated analytical placement tool.
