@@ -39,14 +39,16 @@
 ### Global Routing
  - OpenROAD [FastRoute4-lefdef](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef)
    - LEF/DEF/Rsyn-based port of Iowa State's open-source [FastRoute](http://home.engineering.iastate.edu/~cnchu/FastRoute.html) 4.1.
+ - [CUGR](https://github.com/cuhk-eda/cu-gr) (CUHK)
+   - Different from previous global routers whose quality is usually measured by wirelength and resource overflow, CUGR is a detailed routability-driven global router and its solution quality is solely determined by the final detailed routing results.
+ - [SALT](https://github.com/chengengjie/salt) (CUHK)
+   - A tool for generating VLSI routing topology.
  - [FGR](http://vlsicad.eecs.umich.edu/BK/FGR/) (UMich)
    - A global router based on Lagrange Multipliers and won the 1st place in ISPD 2007 contest.
  - [BoxRouter](https://www.cerc.utexas.edu/utda/download/BoxRouter.htm) (UT Austin)
    - A global router for ultimate routability and won the 2nd place in ISPD 2007 contest.
  - [NTHU-Route](http://www.cs.nthu.edu.tw/~tcwang/nthuroute/) (NTHU)
    - A fast and stable global router and won the 1st place in ISPD 2008 contest.
- - [SALT](https://github.com/chengengjie/salt) (CUHK)
-   - A tool for generating VLSI routing topology.
 
 ### Detailed Routing
  - OpenROAD [TritonRoute](https://github.com/The-OpenROAD-Project/TritonRoute) (UCSD)
