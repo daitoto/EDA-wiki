@@ -1,0 +1,2 @@
+- [Fault](https://github.com/Cloud-V/Fault)
+  - A complete open source design for testing (DFT) Solution that includes automatic test pattern generation for netlists, scan chain stitching, synthesis scripts and a number of other convenience features.
