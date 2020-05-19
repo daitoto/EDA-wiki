@@ -1,3 +1,6 @@
+### Parameter Extraction
+- OpenROAD [OpenRCX](https://github.com/The-OpenROAD-Project/OpenRCX)
+
 ### Physical Analysis
  - [FreeCAD](https://www.freecadweb.org/)
    - An open-source parametric 3D modeler made primarily to design real-life objects of any size.
