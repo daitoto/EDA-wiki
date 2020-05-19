@@ -37,6 +37,7 @@ nav:
     - 高层综合: synthesis/behavior.md
     - 逻辑综合: synthesis/logic.md
     - 布局布线: synthesis/pnr.md
+    - 电网综合: synthesis/power.md
     - 版图综合: synthesis/layout.md
 
   - 测试:
