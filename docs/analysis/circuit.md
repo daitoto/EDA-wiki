@@ -4,7 +4,7 @@
  - [SPICE](http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/) (Berkeley)
    - A general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses.
  - [NICSLU](https://github.com/chenxm1986/nicslu) (Tsinghua)
-   - A high-performance and robust software package for solving large-scale sparse linear systems of equations (Ax = b) on multi-core shared-memory machines.
+   - Parallel sparse direct solver for circuit simulation.
  - [mixedsim](https://github.com/Isotel/mixedsim) (Isotel)
    - Mixed signal simulation with Verilog.
  - [Gnucap: GNU Circuit Analysis Package](http://gnucap.org/dokuwiki/doku.php?id=gnucap:start)
