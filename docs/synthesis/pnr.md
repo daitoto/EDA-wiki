@@ -9,6 +9,10 @@
    - A GPU-accelerated analytical placement tool.
  - OpenROAD [RePlAce](https://github.com/abk-openroad/RePlAce) (UCSD)
    - A global placement tool with advancing solution quality and routability validation.
+ - OpenROAD [TritonMacroPlacer](https://github.com/The-OpenROAD-Project/TritonMacroPlace) (UCSD)
+   - ParquetFP based macro cell placer for OpenROAD.
+ - OpenROAD [OpenDP](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/opendp) (UCSD)
+   - Open source detailed placement engine.
  - [RippleFPGA](https://github.com/cuhk-eda/ripple-fpga) (CUHK)
    - A simultaneous pack-and-place algorithm for FPGA.
  - [arachne-pnr](https://github.com/YosysHQ/arachne-pnr)
@@ -35,10 +39,14 @@
 ### Routing Utilities
  - [FLUTE](http://home.eng.iastate.edu/~cnchu/flute.html) (Iowa State)
    - A very fast and accurate technique for rectilinear Steiner minimal tree (RSMT) construction.
+ - OpenROAD [Flute3](https://github.com/The-OpenROAD-Project/flute3) (UFRGS)
+   - An open-source rectilinear minimal tree algorithm with UFRGS improvements.
 
 ### Global Routing
  - OpenROAD [FastRoute4-lefdef](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef)
    - LEF/DEF/Rsyn-based port of Iowa State's open-source [FastRoute](http://home.engineering.iastate.edu/~cnchu/FastRoute.html) 4.1.
+ - OpenROAD [TritonRoute](https://github.com/The-OpenROAD-Project/TritonRoute)
+   - An open source detailed router for modern industrial designs.
  - [CUGR](https://github.com/cuhk-eda/cu-gr) (CUHK)
    - Different from previous global routers whose quality is usually measured by wirelength and resource overflow, CUGR is a detailed routability-driven global router and its solution quality is solely determined by the final detailed routing results.
  - [SALT](https://github.com/chengengjie/salt) (CUHK)
