@@ -1,2 +1,2 @@
-本栏目将覆盖[形式化验证](formal.md)、[DRC](drc.md)、及[LVS](lvs.md)等设计自动测试与验证工具。
+本栏目将覆盖[形式化验证](formal.md)和[物理验证](physical.md)（DRC和LVS）等自动验证工具。
 
