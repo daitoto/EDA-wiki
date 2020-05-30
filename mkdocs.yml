@@ -31,6 +31,7 @@ nav:
     - FPGA流程: flow/fpga.md
     - 标准格式: flow/standard.md
     - DSL & IR: flow/dsl.md
+    - 开发环境: flow/ide.md
 
   - 设计综合:
     - 设计综合简介: synthesis/index.md
