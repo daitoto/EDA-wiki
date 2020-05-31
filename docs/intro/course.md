@@ -1,5 +1,5 @@
 ## Courses and Tutorials
- - Rob A. Rutenbar, UIUC [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) and [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout)
+ - Rob A. Rutenbar, coursera [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) and [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout)
  - Sung Kyu Lim, Georgia Tech [ECE6133: Physical Design Automation of VLSI Systems](http://limsk.ece.gatech.edu/course/ece6133/)
  - David Z. Pan, UT Austin [EE 382V: VLSI Physical Design Automation](http://users.ece.utexas.edu/~dpan/EE382V_PDA/)
  - Sanjit A. Seshia, UC Berkeley [EECS 219C: Formal Methods: Specification, Verification, and Synthesis](https://people.eecs.berkeley.edu/~sseshia/219c/)
