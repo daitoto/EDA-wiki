@@ -15,3 +15,11 @@
    - The purpose of this site is to host source code, binaries and documentation of software for combinational and sequential logic synthesis. Currently, the following libraries are made available: Espresso, SIS, MVSIS and BALM.
  - [EPFL logic synthesis libraries](https://github.com/lsils/lstools-showcase)
    - The EPFL logic synthesis libraries are a collection of modular open source C++ libraries for the development of logic synthesis applications. All libraries are well documented and well tested. Being header-only, the libraries can be readily used as core components in complex logic synthesis frameworks. 
+
+### Approximate Logic Synthesis
+- [ALSRAC](https://github.com/SJTU-ECTL/ALSRAC) (SJTU)
+  - Approximate logic synthesis by resubstitution with approximate care set (DAC'20).
+- [DALS](https://github.com/SJTU-ECTL/DALS) (SJTU)
+  - Delay-driven approximate logic synthesis (ICCAD'18).
+- [VECBEE](https://github.com/SJTU-ECTL/VECBEE) (SJTU)
+  - Efficient batch statistical error estimation for iterative multi-level approximate logic synthesis (DAC'18).
