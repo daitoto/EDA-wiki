@@ -21,3 +21,7 @@
    - An FPGA-Accelerated Embedded Convolutional Neural Network
  - [HLS4ML](https://github.com/hls-fpga-machine-learning/HLS4ML)
    - A package for machine learning inference in FPGAs.
+
+### Graphics Processors
+- [OpenGPU2020](https://gitee.com/graphichina/OpenGPU2020)
+  - 支持OpenGL ES 1.1的GPU内核
