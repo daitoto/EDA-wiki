@@ -1,5 +1,5 @@
 ### High-level Synthesis
-- [muIR-Generator (Dandelion)](https://github.com/sfu-arch/muir) (SFU), under [MIT License](https://github.com/sfu-arch/muir/blob/master/LICENSE)
+- [muIR-Generator, a.k.a. Dandelion](https://github.com/sfu-arch/muir) (SFU), under [MIT License](https://github.com/sfu-arch/muir/blob/master/LICENSE)
   - muIR-Generator is a tool to generate hardware accelerator from software programs.
 - [LegUp](http://legup.eecg.utoronto.ca/) (Toronto), under [LegUp Software End-User License](http://legup.eecg.utoronto.ca/license.php)
   - A high-level synthesis tool to improve C to Verilog synthesis without building an infrastructure from scratch.
