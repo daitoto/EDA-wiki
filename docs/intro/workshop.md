@@ -1,6 +1,6 @@
 ## Workshops and Conference Sessions on Open Source EDA
 
-### Workshops (focus on open source EDA)
+### Workshops (that focus on open source EDA)
 - WOSET: Workshop on Open-Source EDA Technology
   - [WOSET 2019 and 2018](https://woset-workshop.github.io/), co-located with ICCAD.
 - OSDA: Workshop on Open Source Design Automation
@@ -8,7 +8,7 @@
 - DAC Birds of a Feather: Open Source Academic EDA Software
   - [DAC 2019 BOF](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software), June 5, 2019; Las Vegas, NV, USA.
 
-### Workshops (focus on open source hardware; also introduce a few EDA tools)
+### Workshops (that focus on open source hardware but also introduce a few EDA tools)
 - [ORConf: The open source digital design conferece](https://orconf.org/)
   - ORConfs: [2018](https://orconf.org/2018/) | [2017](https://orconf.org/2017/) | [2016](https://orconf.org/2016/) | [2015](https://orconf.org/2015/) | [2014](https://orconf.org/2014/) | [2013](https://orconf.org/2013/) | [2012](https://orconf.org/2012/)
 
