@@ -1,3 +1,7 @@
+### 开发环境
+* [TerosHDL](https://github.com/TerosTechnology/terosHDL)
+  - The goal of TerosHDL is make the FPGA development easier and reliable.
+
 ### 开发环境 (webware)
 
 * [EDA Playground](https://www.edaplayground.com/) (Doulos)
