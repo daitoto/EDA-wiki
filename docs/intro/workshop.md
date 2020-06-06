@@ -1,7 +1,7 @@
 ## Workshops and Conference Sessions on Open Source EDA
 ### Workshops
 - WOSET: Workshop on Open-Source EDA Technology
-  - [WOSET 2018](https://woset-workshop.github.io/), co-located with ICCAD, Nov 8, 2018; San Diego, CA, USA.
+  - [WOSET 2019 and 2018](https://woset-workshop.github.io/), co-located with ICCAD.
 - OSDA: Workshop on Open Source Design Automation
   - [OSDA 2019](https://osda.gitlab.io/), co-located with DATE, March 29, 2019; Florence, Italy.
 - [ORConf: The open source digital design conferece](https://orconf.org/)
