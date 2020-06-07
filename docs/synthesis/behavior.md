@@ -1,4 +1,4 @@
-### High-level Synthesis
+### High-level Synthesis (HLS)
 - [muIR-Generator, a.k.a. Dandelion](https://github.com/sfu-arch/muir) (SFU), under [MIT License](https://github.com/sfu-arch/muir/blob/master/LICENSE)
   - muIR-Generator is a tool to generate hardware accelerator from software programs.
 - [LegUp](http://legup.eecg.utoronto.ca/) (Toronto), under [LegUp Software End-User License](http://legup.eecg.utoronto.ca/license.php)
@@ -15,3 +15,7 @@
 ### Hardware Generation
 - [muIR](https://github.com/sfu-arch/muir-lib) (SFU), under [BSD 3-Clause License](https://github.com/sfu-arch/muir-lib/blob/master/LICENSE)
   - muIR is a library of hardware components for auto generating highly configurable parallel dataflow accelerator.
+
+### HLS Passes
+- [EDS Scheduling](https://github.com/chhzh123/Entropy-directed-scheduling) (SYSU), under [MIT License](https://github.com/chhzh123/Entropy-directed-scheduling/blob/master/LICENSE)
+  - The implementation of Entropy-Directed Scheduling (EDS) algorithm for FPGA high-level synthesis (HLS).
