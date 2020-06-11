@@ -1,6 +1,8 @@
 本栏目收集和讨论开源硅知识产权（Silicon Intellectual Property）相关的项目和信息。
 
 ### Communities and Libraries
+- [CHIPS Alliance](https://github.com/chipsalliance)
+  - Common Hardware for Interfaces, Processors and Systems
 - [POSH](https://github.com/aolofsson/POSH)
   - A meta project for the POSH related projects.
 - [HLSLibs](https://hlslibs.org/) (Mentor)
