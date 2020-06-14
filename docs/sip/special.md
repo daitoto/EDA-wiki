@@ -27,5 +27,5 @@
   - 支持OpenGL ES 1.1的GPU内核
 
 ### Video Processing
-- OpenASIC [H.265 Encoder])(https://github.com/openasic-org/h265-encoder-rtl) (Fudan)
+- OpenASIC [H.265 Encoder](https://github.com/openasic-org/h265-encoder-rtl) (Fudan)
   - H.265 Video Encoder IP Core 是开源的H.265硬件视频编码器，实现了H.265（或叫HEVC）的大部分功能
