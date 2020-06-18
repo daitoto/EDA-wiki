@@ -7,3 +7,4 @@
    - A free, open source, GPL'ed VHDL simulator for Linux.
  - [TkGate](https://github.com/bnoordhuis/tkgate)
    - A digital circuit editor and simulator with a Tcl/Tk-based interface.
+ - Icarus Verilog in [标准格式](wiki/flow/standard/)
