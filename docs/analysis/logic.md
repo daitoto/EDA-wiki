@@ -8,3 +8,6 @@
  - [TkGate](https://github.com/bnoordhuis/tkgate)
    - A digital circuit editor and simulator with a Tcl/Tk-based interface.
  - Icarus Verilog in [标准格式](../../flow/standard/)
+
+### Wave Viewer
+- [GTKWave](https://github.com/gtkwave/gtkwave), under [GNU General Public License v2.0](https://github.com/gtkwave/gtkwave/blob/master/LICENSE)
