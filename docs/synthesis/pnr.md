@@ -45,7 +45,7 @@
    - A tool for generating VLSI routing topology.
 
 ### Global Routing
- - OpenROAD [FastRoute4-lefdef](https://github.com/The-OpenROAD-Project/FastRoute4-lefdef)
+ - OpenROAD [FastRoute](https://github.com/The-OpenROAD-Project/FastRoute)
    - LEF/DEF/Rsyn-based port of Iowa State's open-source [FastRoute](http://home.engineering.iastate.edu/~cnchu/FastRoute.html) 4.1.
  - OpenROAD [TritonRoute](https://github.com/The-OpenROAD-Project/TritonRoute)
    - An open source detailed router for modern industrial designs.
