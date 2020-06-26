@@ -1,4 +1,6 @@
 - [Fault](https://github.com/Cloud-V/Fault) (American University in Cairo)
   - A complete open source design for testing (DFT) Solution that includes automatic test pattern generation for netlists, scan chain stitching, synthesis scripts and a number of other convenience features.
+- [rfuzz](https://github.com/ekiwi/rfuzz) (Berkeley)
+  - Coverage-directed fuzzing for RTL research platform.
 - [Atlanta](https://github.com/hsluoyz/Atalanta) (Virginia Tech)
   - ATALANTA is an automatic test pattern generator for stuck-at faults in combinational circuits.
