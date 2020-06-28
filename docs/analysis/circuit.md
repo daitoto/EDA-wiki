@@ -13,3 +13,8 @@
    - Setup a circuit with a graphical user interface (GUI) and simulate the large-signal, small-signal and noise behaviour of the circuit.
  - [Xyce](https://xyce.sandia.gov/) (Sandia NL)
    - An open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
+
+### Interface
+- [CDF](https://github.com/paripath/cdf) (Paripath)
+  - CDF or characterization description format is effective in capturing properties of VLSI cells and IPS at several levels of abstraction.
+  - It is a baseline proposal for a standard to act as an interface across VLSI software(s) using and/or interfacting with SPICE simulators.
