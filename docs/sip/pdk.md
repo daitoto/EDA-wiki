@@ -6,3 +6,5 @@
  - [Open-Cell](http://www.si2.org/open-cell-library/) (Si2)
    - Silvaco's 15nm Open-Cell Library
    - No charge for universities and Si2 members
+ - [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) (Google, SkyWater)
+   - The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit and related resources, which can be used to create manufacturable designs at SkyWater’s facility.
