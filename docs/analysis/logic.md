@@ -1,6 +1,9 @@
 ### Logic Simulation
  - [Verilator](https://www.veripool.org/wiki/verilator)
    - A fast free Verilog/SystemVerilog simulator.
+ - [CVC](http://www.tachyon-da.com/what-is-cvc/), under [Modified Artistic Open Source Software License](tachyon-da.com/licensing-faq/)
+   - CVC is a full IEEE 1364 2005 compliant Verilog Hardware Description Language (HDL) simulator that compilesVerilog to native X86_64 machine instructions which are executed as a simple native Linux binary.
+   - Mirror of OSS CVC https://github.com/cambridgehackers/open-src-cvc
  - [GHDL](https://github.com/ghdl/ghdl)
    - An open-source simulator for the VHDL language.
  - [FreeHDL](http://freehdl.seul.org/)
