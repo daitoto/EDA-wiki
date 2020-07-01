@@ -35,3 +35,5 @@
    - Verilog AST like IR in Yosys.
  - [spydrnet](https://byuccl.github.io/spydrnet/)
    - A flexible framework for analyzing and transforming FPGA netlists.
+ - [fircpp](https://github.com/easysoc/fircpp)
+   - fircpp is a C++ Firrtl parser based on antlr4.
