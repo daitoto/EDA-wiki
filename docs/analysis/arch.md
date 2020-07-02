@@ -7,6 +7,8 @@
   - A next generation parallel, high-speed and accurate x86 simulator.
 - [zsim](https://github.com/s5z/zsim)
   - A fast and scalable x86-64 multicore simulator.
+- [JADE](https://eexu.home.ece.ust.hk/JADE.html) (HKUST), under BSD 3-Clause License
+  - Heterogeneous Multiprocessor Design Simulation Environment.
 
 ### GPU Simulators
 - [GPGPU-sim](http://www.gpgpu-sim.org/)
