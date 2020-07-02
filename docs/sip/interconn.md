@@ -4,6 +4,6 @@
  - [LISNoC](https://github.com/TUM-LIS/lisnoc) (TUM)
    - A free Network-on-Chip implementation, mainly for academic or teaching purposes
 
-### NoC Application Mapping Tool
+### NoC Mapping Tools
 - [PhoNoCMap](http://wpage.unina.it/edoardo.fusella/phonocmap/) (UniNa), under BSD 3-Clause License
   - An open-source tool for the design space exploration of photonic NoCs mapping solutions.
