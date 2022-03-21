@@ -13,6 +13,9 @@
  - [Tritoncore](https://github.com/JackDavidson/OpenFPGACore-TritonCore) (Jack Davidson)
    - A very simple and minimal FPGA that is implemented in CHISEL
    - Jack Davidson's undergrad project at UCSD
+ - [Trollstigen FPGA](http://www.ee.columbia.edu/~kinget/EE6350_S16/04_FPGA_Tom_Robert_Harrison_Guanshun/index.html) (Blayne Kettlewell, Tom Cheng, Harrison Liew, Guanshun Yu)
+   - Another very simple and minimal FPGA that is implemented in CHISEL.
+   - The author's VLSI Design Lab (E6350) course project.
 
 ### Coarse-grain Reconfigurable Fabrics
  - [garnet](https://github.com/StanfordAHA/garnet) (Stanford)
